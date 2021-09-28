@@ -7,4 +7,5 @@ Link for the original RP Core: https://github.com/Swqppingg/RPCore
 ### 1
 Added ID's before chat commands.
 
+# Note:
 More is to come in the future.
